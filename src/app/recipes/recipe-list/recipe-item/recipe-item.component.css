@@ -1,5 +1,6 @@
 .img-thumbnail{
-    width: 30%;
+    width: 50%;
+    height: 50%;
     float: right;
-    margin-top: -77px;
+    /* margin-top: -77px; */
 }
